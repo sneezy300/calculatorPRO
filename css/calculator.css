@@ -1,0 +1,19 @@
+.biggy {
+	background-color: grey;
+	height: 80px;
+}
+.biggy h1 {
+	color: white;
+}
+
+.smally {
+	background-color: lightgrey;
+	height: 80px;
+	border: 1px solid black;
+}
+
+.small {
+	background-color: orange;
+	height: 80px;
+	border: 1px solid black;
+}
